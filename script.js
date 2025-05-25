@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function() {
     if (textArray.length) setTimeout(type, newTextDelay + 250);
 });
 
-// Counter animation
+
 const counters = document.querySelectorAll('.counter');
 const speed = 200;
 

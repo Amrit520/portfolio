@@ -114,27 +114,7 @@ This project is open source and available under the [MIT License](LICENSE).
    - Build Command: (leave empty)
    - Output Directory: (leave empty)
 5. Click "Deploy"
-6. Your site will be available at `https://your-site-name.vercel.app`
-
-### 4. Firebase Hosting (Free)
-1. Install Firebase CLI:
-   ```bash
-   npm install -g firebase-tools
-   ```
-2. Login to Firebase:
-   ```bash
-   firebase login
-   ```
-3. Initialize Firebase in your project:
-   ```bash
-   firebase init
-   ```
-4. Select "Hosting" and follow the prompts
-5. Deploy your site:
-   ```bash
-   firebase deploy
-   ```
-6. Your site will be available at `https://your-project-id.web.app`
+6. Your site will be available at https://amritkumar.vercel.app/
 
 ### Important Notes for Deployment
 - Make sure all file paths in your HTML, CSS, and JavaScript files are relative
@@ -142,6 +122,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - Consider setting up a custom domain for a more professional look
 - Enable HTTPS for security
 - Set up proper caching headers for better performance
+app name :- amritkumar.vercel.app
 
 ---
 
